@@ -1,4 +1,4 @@
-# exam_app
+# LastMinuteExam
 <div align="center">
 
 <img src="assets/icon.png" alt="ExamAI Logo" width="100" height="100" style="border-radius: 20px"/>
