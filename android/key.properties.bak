@@ -1,0 +1,4 @@
+storePassword=Lak1807$
+keyPassword=Lak1807$
+keyAlias=exam-ai
+storeFile=..\..\exam-ai-keystore.jks
