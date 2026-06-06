@@ -39,6 +39,15 @@ Upload a PDF, DOCX, PPTX or TXT file and get AI-generated viva questions, subjec
 </div>
 
 ---
+## 🎥 Demo Video
+
+<div align="center">
+
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/_dEpfFKqR4Y?si=BFvu6BE8wxFCeg_5)
+
+</div>
+
+---
 
 ## 🎯 Problem It Solves
 
