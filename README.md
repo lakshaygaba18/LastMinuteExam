@@ -21,6 +21,23 @@ Upload a PDF, DOCX, PPTX or TXT file and get AI-generated viva questions, subjec
 </div>
 
 ---
+## 📸 Screenshots
+
+<div align="center">
+<img src="" width="200"/>
+<img src="" width="200"/>
+<img src="" width="200"/>
+<img src="" width="200"/>
+<img src="" width="200"/>
+<img src="" width="200"/>
+<img src="" width="200"/>
+<img src="" width="200"/>
+<img src="" width="200"/>
+<img src="" width="200"/>
+<img src="" width="200"/>
+</div>
+
+---
 
 ## 🎯 Problem It Solves
 
