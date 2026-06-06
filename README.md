@@ -23,18 +23,19 @@ Upload a PDF, DOCX, PPTX or TXT file and get AI-generated viva questions, subjec
 ---
 ## 📸 Screenshots
 
+
 <div align="center">
-<img src="" width="200"/>
-<img src="" width="200"/>
-<img src="" width="200"/>
-<img src="" width="200"/>
-<img src="" width="200"/>
-<img src="" width="200"/>
-<img src="" width="200"/>
-<img src="" width="200"/>
-<img src="" width="200"/>
-<img src="" width="200"/>
-<img src="" width="200"/>
+<img src="https://github.com/user-attachments/assets/409343e9-6219-44af-8f36-43c069af4ed4" width="200"/>
+<img src="https://github.com/user-attachments/assets/99757872-5d9f-4537-9575-a94422d51e88" width="200"/>
+<img src="https://github.com/user-attachments/assets/a9c868af-80d2-435a-ad75-1fbb05972027" width="200"/>
+<img src="https://github.com/user-attachments/assets/1cca0e6d-6194-41e6-ae6c-6171ab389d01" width="200"/>
+<img src="https://github.com/user-attachments/assets/2d10cec3-f753-4e0b-b6f2-40c95638f8fc" width="200"/>
+<img src="https://github.com/user-attachments/assets/bc6b6dc3-9305-41bc-b80d-938771ad0556" width="200"/>
+<img src="https://github.com/user-attachments/assets/1f9537f8-c450-4aea-99e5-46c3db8f2689" width="200"/>
+<img src="https://github.com/user-attachments/assets/ccc1afac-8403-424d-b176-2a298d3a0cb2" width="200"/>
+<img src="https://github.com/user-attachments/assets/c96e0207-f480-48ba-a4e5-6327e5f2b499" width="200"/>
+<img src="https://github.com/user-attachments/assets/6aea805b-4f54-4fb1-98c4-43257de242de" width="200"/>
+<img src="https://github.com/user-attachments/assets/fa0ff944-6d48-4db0-a1a4-affc6dce5e4e" width="200"/>
 </div>
 
 ---
